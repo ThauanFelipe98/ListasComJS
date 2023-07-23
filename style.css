@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("fundosantos.img");
+    background-repeat: no-repeat;
+    width: 100%; /* Defina a largura desejada */
+    height: 100%px; /* Defina a altura desejada */
+    background-size: cover; /* Ajusta o tamanho da imagem para cobrir todo o elemento */
+    background-position: center; /* Define o ponto de ancoragem da imagem no centro */
+}
+
+.imgsantos{
+    width: 235px;
+    height:150px;
+}
+
+body h1 {
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
